@@ -1,7 +1,7 @@
 <template>
   <div class="container">
     <h1>Parent Component (User)</h1>
-    <p>BUrası parent component yani her şeyin import edildiği component</p>
+    <p>BUrası parent component yani her şeyin import edildiği component hadi bakalım</p>
     <button @click="tikla">Adımı degiştir.</button>
     <p>User Details (child component) den gelen veri: {{childData}}</p>
     <hr>
